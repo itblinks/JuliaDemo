@@ -4,6 +4,7 @@ This repository simply hosts an demo for the Julia scripting languange
 
 ## Requirements
 * Julia
+* Clang (for C++ benchmark)
 
 ## Setup
 1. Clone repository from git and navigate into the repository
